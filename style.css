@@ -75,7 +75,7 @@ background: linear-gradient(to top, #790000, #000000); /* W3C, IE 10+/ Edge, Fir
 
 
 .container-about{
-    width: 50%;
+    width: 80%;
     display: flex;
     max-width: 1200px;
     margin: 0 auto;
